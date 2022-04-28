@@ -45,6 +45,10 @@ zones[xi.zone.VELUGANNON_PALACE] =
         B_LITH_OFFSET   = 17502634,
         TREASURE_COFFER = 17502699,
     },
+    weapon =
+    {
+        BUCCANEERS_KNIFE = 17622
+    }
 }
 
 return zones[xi.zone.VELUGANNON_PALACE]
